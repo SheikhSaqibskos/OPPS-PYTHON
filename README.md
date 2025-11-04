@@ -1,4 +1,6 @@
 🧾 Assignment: Object-Oriented Programming (OOP) in Python
+
+Library Management System
 🎯 Aim:
 
 To understand and implement the four major principles of Object-Oriented Programming (OOP) — Encapsulation, Inheritance, Polymorphism, and Abstraction — through a practical Library Management System program.
